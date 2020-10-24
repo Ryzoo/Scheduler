@@ -1,0 +1,958 @@
+2020-10-24 11:30:45.265 +02:00 [INF] Starting up
+2020-10-24 11:30:45.656 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 11:30:45.663 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 11:30:45.667 +02:00 [INF] Hosting environment: Development
+2020-10-24 11:30:45.672 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 11:30:45.687 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:31:24.719 +02:00 [INF] Starting up
+2020-10-24 11:31:24.976 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 11:31:24.983 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 11:31:24.987 +02:00 [INF] Hosting environment: Development
+2020-10-24 11:31:24.991 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 11:31:25.004 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:31:35.010 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:31:44.998 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:31:55.001 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:32:04.996 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:32:14.989 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:32:24.999 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:32:34.996 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:34:22.830 +02:00 [INF] Starting up
+2020-10-24 11:34:23.094 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 11:34:23.100 +02:00 [INF] Core.Requests.SendScheduledMailRequest running.
+2020-10-24 11:34:23.102 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 11:34:23.105 +02:00 [INF] Hosting environment: Development
+2020-10-24 11:34:23.108 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 11:34:23.121 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:34:23.121 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:34:33.120 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:34:33.120 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:34:43.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:34:43.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:34:46.829 +02:00 [INF] Starting up
+2020-10-24 11:34:47.099 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 11:34:47.104 +02:00 [INF] Core.Requests.SendScheduledMailRequest running.
+2020-10-24 11:34:47.107 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 11:34:47.110 +02:00 [INF] Hosting environment: Development
+2020-10-24 11:34:47.113 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 11:34:47.127 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:34:47.127 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:34:57.112 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:34:57.114 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:35:07.111 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:35:07.111 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:35:17.121 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:35:17.122 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:35:27.119 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:35:27.119 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:35:37.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:35:37.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:35:47.117 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:35:47.117 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:35:57.111 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:35:57.111 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:36:07.120 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:36:07.121 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:36:17.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:36:17.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:36:27.107 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:36:27.107 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:36:37.117 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:36:37.117 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:36:47.106 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:36:47.106 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:36:57.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:36:57.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:37:07.109 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:37:07.109 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:37:17.120 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:37:17.121 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:37:27.119 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:37:27.119 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:37:37.106 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:37:37.106 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:37:47.119 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:37:47.119 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:37:57.113 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:37:57.113 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:38:07.112 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:38:07.112 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:38:17.105 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:38:17.121 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:38:27.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:38:27.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:38:37.117 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:38:37.117 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:38:47.116 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:38:47.116 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:38:57.107 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:38:57.107 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:39:07.106 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:39:07.106 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:39:17.117 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:39:17.118 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:39:27.112 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:39:27.113 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:39:37.107 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:39:37.107 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:39:47.114 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:39:47.114 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:39:57.107 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:39:57.108 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:40:07.112 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:40:07.112 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:40:17.112 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:40:17.112 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:40:27.118 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:40:27.119 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:40:37.114 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:40:37.114 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:40:47.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:40:47.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:40:57.105 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:40:57.105 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:41:07.118 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:41:07.119 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:41:17.111 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:41:17.111 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:41:27.121 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:41:27.122 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:41:37.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:41:37.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:41:47.119 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:41:47.119 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:41:57.105 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:41:57.121 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:42:07.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:42:07.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:42:17.115 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:42:17.115 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:42:27.119 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:42:27.119 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:42:37.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:42:37.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:42:47.106 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:42:47.106 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:42:57.107 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:42:57.107 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:43:07.193 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:43:07.216 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:43:17.143 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:43:17.143 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:43:27.106 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:43:27.106 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:43:37.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:43:37.111 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:43:47.115 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:43:47.115 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:43:57.119 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:43:57.120 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:44:07.106 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:44:07.106 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:44:17.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:44:17.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:44:27.133 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:44:27.148 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:44:37.125 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:44:37.125 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:44:47.117 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:44:47.117 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:44:57.120 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:44:57.120 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:45:07.113 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:45:07.113 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:45:17.109 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:45:17.109 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:45:27.114 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:45:27.114 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:45:37.107 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:45:37.107 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:45:47.116 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:45:47.116 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:45:57.116 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:45:57.116 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:46:07.116 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:46:07.116 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:46:17.121 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:46:17.121 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:46:27.116 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:46:27.116 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:46:37.120 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:46:37.120 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:46:47.107 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:46:47.107 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:46:57.111 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:46:57.111 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:47:07.115 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:47:07.115 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:47:17.105 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:47:17.121 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:47:27.118 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:47:27.119 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:47:37.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:47:37.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:47:47.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:47:47.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:47:57.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:47:57.110 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:48:07.113 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:48:07.113 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:48:17.111 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:48:17.111 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:48:27.108 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 11:48:27.108 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:48:37.105 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 11:48:37.136 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:04:59.013 +02:00 [INF] Starting up
+2020-10-24 15:04:59.333 +02:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: MediatR.IRequestHandler`2[Core.Requests.ReadMailFileRequest,MediatR.Unit] Lifetime: Transient ImplementationType: Core.Handlers.ReadMailFileHandler': Unable to resolve service for type 'Core.Interfaces.Repositories.IStateRepository' while attempting to activate 'Core.Handlers.ReadMailFileHandler'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: MediatR.IRequestHandler`2[Core.Requests.ReadMailFileRequest,MediatR.Unit] Lifetime: Transient ImplementationType: Core.Handlers.ReadMailFileHandler': Unable to resolve service for type 'Core.Interfaces.Repositories.IStateRepository' while attempting to activate 'Core.Handlers.ReadMailFileHandler'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Core.Interfaces.Repositories.IStateRepository' while attempting to activate 'Core.Handlers.ReadMailFileHandler'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Core.Program.Main(String[] args) in C:\Users\gkast\RiderProjects\Scheduler\Main\Program.cs:line 33
+2020-10-24 15:05:41.493 +02:00 [INF] Starting up
+2020-10-24 15:05:41.735 +02:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: MediatR.IRequestHandler`2[Core.Requests.ReadMailFileRequest,MediatR.Unit] Lifetime: Transient ImplementationType: Core.Handlers.ReadMailFileHandler': Unable to resolve service for type 'Core.Interfaces.Repositories.IStateRepository' while attempting to activate 'Core.Handlers.ReadMailFileHandler'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: MediatR.IRequestHandler`2[Core.Requests.ReadMailFileRequest,MediatR.Unit] Lifetime: Transient ImplementationType: Core.Handlers.ReadMailFileHandler': Unable to resolve service for type 'Core.Interfaces.Repositories.IStateRepository' while attempting to activate 'Core.Handlers.ReadMailFileHandler'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Core.Interfaces.Repositories.IStateRepository' while attempting to activate 'Core.Handlers.ReadMailFileHandler'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Core.Program.Main(String[] args) in C:\Users\gkast\RiderProjects\Scheduler\Main\Program.cs:line 33
+2020-10-24 15:06:11.430 +02:00 [INF] Starting up
+2020-10-24 15:06:11.725 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:06:11.731 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:06:11.734 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:06:11.737 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:06:11.744 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:06:11.758 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:06:12.614 +02:00 [INF] Previous  read lines.
+2020-10-24 15:06:12.617 +02:00 [INF] Now we try read  lines.
+2020-10-24 15:06:12.632 +02:00 [ERR] Must contain at least 1 request. (Parameter 'requests')
+2020-10-24 15:06:12.634 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:06:21.742 +02:00 [INF] Previous  read lines.
+2020-10-24 15:06:21.745 +02:00 [INF] Now we try read  lines.
+2020-10-24 15:06:21.748 +02:00 [ERR] Must contain at least 1 request. (Parameter 'requests')
+2020-10-24 15:06:21.749 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:06:21.751 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:06:31.747 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:06:31.752 +02:00 [INF] Previous  read lines.
+2020-10-24 15:06:31.755 +02:00 [INF] Now we try read  lines.
+2020-10-24 15:06:31.757 +02:00 [ERR] Must contain at least 1 request. (Parameter 'requests')
+2020-10-24 15:06:31.759 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:07:38.045 +02:00 [INF] Starting up
+2020-10-24 15:07:38.319 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:07:38.324 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:07:38.326 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:07:38.330 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:07:38.334 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:07:38.347 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:07:39.091 +02:00 [INF] Previous 0 read lines.
+2020-10-24 15:07:39.094 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:07:39.108 +02:00 [ERR] Must contain at least 1 request. (Parameter 'requests')
+2020-10-24 15:07:39.111 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:07:48.334 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:07:48.343 +02:00 [INF] Previous 0 read lines.
+2020-10-24 15:07:48.346 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:07:48.349 +02:00 [ERR] Must contain at least 1 request. (Parameter 'requests')
+2020-10-24 15:07:48.353 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:10:25.869 +02:00 [INF] Starting up
+2020-10-24 15:10:26.148 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:10:26.154 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:10:26.157 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:10:26.159 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:10:26.163 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:10:26.176 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:10:26.898 +02:00 [INF] Previous 0 read lines.
+2020-10-24 15:10:26.900 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:11:55.620 +02:00 [INF] Starting up
+2020-10-24 15:11:55.878 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:11:55.883 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:11:55.886 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:11:55.890 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:11:55.894 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:11:55.905 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:11:56.410 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:11:56.477 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:11:56.480 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:12:05.892 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:12:05.892 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:12:05.897 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:12:05.901 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:12:15.896 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:12:15.896 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:12:15.907 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:12:15.912 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:12:25.892 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:12:25.892 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:12:25.898 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:12:25.901 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:12:35.891 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:12:35.891 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:12:35.898 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:12:35.902 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:12:45.902 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:12:45.902 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:12:45.908 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:12:45.912 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:12:55.900 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:12:55.900 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:12:55.909 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:12:55.912 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:13:05.895 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:13:05.895 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:13:05.900 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:13:05.904 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:13:15.891 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:13:15.891 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:13:15.901 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:13:15.904 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:13:25.894 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:13:25.894 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:13:25.903 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:13:25.905 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:13:35.897 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:13:35.898 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:13:35.907 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:13:35.911 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:13:45.889 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:13:45.889 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:13:45.894 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:13:45.899 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:13:55.898 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:13:55.898 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:13:55.907 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:13:55.909 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:14:05.889 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:14:05.889 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:14:05.893 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:14:05.897 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:14:15.894 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:14:15.894 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:14:15.902 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:14:15.905 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:14:25.890 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:14:25.890 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:14:25.900 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:14:25.903 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:14:35.899 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:14:35.899 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:14:35.903 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:14:35.907 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:14:45.884 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:14:45.888 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:14:45.889 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:14:45.894 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:14:55.888 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:14:55.888 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:14:55.894 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:14:55.896 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:15:05.900 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:15:05.900 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:15:05.907 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:15:05.909 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:15:15.888 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:15:15.888 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:15:15.895 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:15:15.897 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:15:25.896 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:15:25.896 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:15:25.903 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:15:25.906 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:15:35.892 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:15:35.893 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:15:35.899 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:15:35.902 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:15:45.888 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:15:45.888 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:15:45.894 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:15:45.896 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:15:55.886 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:15:55.886 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:15:55.894 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:15:55.899 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:16:05.912 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:16:05.912 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:16:05.919 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:16:05.921 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:16:15.895 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:16:15.895 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:16:15.904 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:16:15.906 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:16:25.889 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:16:25.889 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:16:25.895 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:16:25.898 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:16:35.898 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:16:35.898 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:16:35.908 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:16:35.912 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:16:45.900 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:16:45.900 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:16:45.912 +02:00 [ERR] The process cannot access the file 'C:\Users\gkast\OneDrive\Desktop\welcome_mail.csv' because it is being used by another process.
+2020-10-24 15:16:45.915 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:16:55.886 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:16:55.886 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:16:55.892 +02:00 [ERR] The process cannot access the file 'C:\Users\gkast\OneDrive\Desktop\welcome_mail.csv' because it is being used by another process.
+2020-10-24 15:16:55.894 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:17:05.883 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:17:05.887 +02:00 [ERR] The process cannot access the file 'C:\Users\gkast\OneDrive\Desktop\welcome_mail.csv' because it is being used by another process.
+2020-10-24 15:17:05.891 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:17:05.899 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:17:15.896 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:17:15.896 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:17:15.903 +02:00 [ERR] The process cannot access the file 'C:\Users\gkast\OneDrive\Desktop\welcome_mail.csv' because it is being used by another process.
+2020-10-24 15:17:15.905 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:17:25.901 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:17:25.901 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:17:25.905 +02:00 [ERR] The process cannot access the file 'C:\Users\gkast\OneDrive\Desktop\welcome_mail.csv' because it is being used by another process.
+2020-10-24 15:17:25.909 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:17:35.883 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:17:35.889 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:17:35.893 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:17:35.896 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:17:45.888 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:17:45.888 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:17:45.894 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:17:45.897 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:17:55.901 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:17:55.901 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:17:55.905 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:17:55.909 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:18:05.899 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:18:05.899 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:18:05.903 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:18:05.907 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:18:15.892 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:18:15.892 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:18:15.898 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:18:15.900 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:18:25.894 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:18:25.894 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:18:25.901 +02:00 [ERR] Header with name 'Name' was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+2020-10-24 15:18:25.903 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:18:35.894 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:18:35.894 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:18:35.899 +02:00 [ERR] The process cannot access the file 'C:\Users\gkast\OneDrive\Desktop\welcome_mail.csv' because it is being used by another process.
+2020-10-24 15:18:35.906 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:18:45.891 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:18:45.891 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:18:46.109 +02:00 [INF] Previous 0 read lines.
+2020-10-24 15:18:46.112 +02:00 [INF] Now we try read 1 lines.
+2020-10-24 15:18:46.359 +02:00 [INF] Data read and wrote to database.
+2020-10-24 15:18:46.388 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:18:55.891 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:18:55.891 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:18:55.916 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:18:55.920 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:19:13.097 +02:00 [INF] Starting up
+2020-10-24 15:19:13.380 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:19:13.386 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:19:13.389 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:19:13.393 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:19:13.397 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:19:13.408 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:19:13.915 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:19:14.160 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:19:14.162 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:19:23.388 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:19:23.402 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:19:23.404 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:19:23.405 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:19:33.413 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:19:33.413 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:19:33.425 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:19:33.429 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:19:43.399 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:19:43.399 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:19:43.411 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:19:43.414 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:19:52.503 +02:00 [INF] Starting up
+2020-10-24 15:19:54.821 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:19:54.842 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:19:54.850 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:19:54.858 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:19:54.872 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:19:54.873 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:19:56.379 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:20:05.023 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:20:06.628 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:20:10.818 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:20:12.790 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:20:25.748 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:20:25.742 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:20:25.748 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:21:15.136 +02:00 [INF] Starting up
+2020-10-24 15:21:15.472 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:21:15.476 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:21:15.479 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:21:15.483 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:21:15.489 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:21:15.510 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:21:16.096 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:21:16.420 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:21:16.423 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:21:25.501 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:21:25.501 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:21:25.515 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:21:25.519 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:21:35.493 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:21:35.493 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:21:35.512 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:21:35.515 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:21:45.485 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:21:45.485 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:21:45.495 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:21:45.498 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:21:55.482 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:21:55.483 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:21:55.501 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:21:55.504 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:22:05.489 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:22:05.489 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:22:05.503 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:22:05.507 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:22:10.273 +02:00 [INF] Starting up
+2020-10-24 15:22:11.515 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:22:11.528 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:22:11.537 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:22:11.543 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:22:11.549 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:22:11.555 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:22:12.703 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:27:08.409 +02:00 [INF] Starting up
+2020-10-24 15:27:08.670 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:27:08.677 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:27:08.680 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:27:08.684 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:27:08.689 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:27:08.700 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:27:09.194 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:27:09.477 +02:00 [INF] Previous 0 read lines.
+2020-10-24 15:27:09.479 +02:00 [INF] Now we try read 1 lines.
+2020-10-24 15:27:09.699 +02:00 [INF] Data read and wrote to database.
+2020-10-24 15:27:09.730 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:27:18.685 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:27:18.685 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:27:18.707 +02:00 [INF] Previous 1 read lines.
+2020-10-24 15:27:18.710 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:28:11.342 +02:00 [INF] Starting up
+2020-10-24 15:28:11.621 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:28:11.625 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:28:11.627 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:28:11.631 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:28:11.635 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:28:11.646 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:28:12.155 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:28:12.410 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:28:12.412 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:28:12.414 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:28:21.642 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:28:21.643 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:28:21.658 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:28:21.662 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:28:21.664 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:28:31.627 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:28:31.640 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:28:31.641 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:28:31.645 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:28:31.650 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:28:41.637 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:28:41.637 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:28:41.649 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:28:41.652 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:28:41.656 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:28:51.632 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:28:51.633 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:28:51.649 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:28:51.653 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:28:51.656 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:29:01.636 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:29:01.636 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:29:01.649 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:29:01.655 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:29:01.659 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:29:11.636 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:29:11.636 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:29:11.649 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:29:11.654 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:29:11.658 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:29:21.628 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:29:21.628 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:29:21.644 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:29:21.648 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:29:21.652 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:29:31.626 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:29:31.635 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:29:31.638 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:29:31.640 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:29:31.642 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:29:41.639 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:29:41.639 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:29:41.657 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:29:41.660 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:29:41.662 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:29:51.674 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:29:51.683 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:29:51.741 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:29:51.744 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:29:51.747 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:30:01.635 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:30:01.635 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:30:01.646 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:30:01.649 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:30:01.653 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:30:11.638 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:30:11.638 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:30:11.651 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:30:11.654 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:30:11.658 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:30:21.638 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:30:21.638 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:30:21.648 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:30:21.650 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:30:21.652 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:30:31.639 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:30:31.639 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:30:31.651 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:30:31.654 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:30:31.658 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:30:41.651 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:30:41.651 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:30:41.662 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:30:41.664 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:30:41.668 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:30:51.629 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:30:51.629 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:30:51.639 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:30:51.641 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:30:51.643 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:31:01.641 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:31:01.641 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:31:01.651 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:31:01.653 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:31:01.655 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:31:11.626 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:31:11.633 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:31:11.636 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:31:11.638 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:31:11.641 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:31:21.634 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:31:21.634 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:31:21.644 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:31:21.646 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:31:21.650 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:31:31.637 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:31:31.637 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:31:31.645 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:31:31.648 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:31:31.650 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:31:41.629 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:31:41.629 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:31:41.638 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:31:41.640 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:31:41.642 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:31:51.635 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:31:51.635 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:31:51.644 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:31:51.646 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:31:51.649 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:32:01.636 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:32:01.636 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:32:01.653 +02:00 [ERR] The process cannot access the file 'C:\Users\gkast\OneDrive\Desktop\welcome_mail.csv' because it is being used by another process.
+2020-10-24 15:32:01.668 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:32:11.630 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:32:11.631 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:32:11.636 +02:00 [ERR] The process cannot access the file 'C:\Users\gkast\OneDrive\Desktop\welcome_mail.csv' because it is being used by another process.
+2020-10-24 15:32:11.639 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:32:21.642 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:32:21.642 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:32:21.647 +02:00 [ERR] The process cannot access the file 'C:\Users\gkast\OneDrive\Desktop\welcome_mail.csv' because it is being used by another process.
+2020-10-24 15:32:21.649 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:32:31.628 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:32:31.628 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:32:31.634 +02:00 [ERR] The process cannot access the file 'C:\Users\gkast\OneDrive\Desktop\welcome_mail.csv' because it is being used by another process.
+2020-10-24 15:32:31.636 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:32:41.651 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:32:41.651 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:32:41.660 +02:00 [INF] Previous read 1 lines.
+2020-10-24 15:32:41.663 +02:00 [INF] Now we try read 1 lines.
+2020-10-24 15:32:41.849 +02:00 [INF] Data read and wrote to database.
+2020-10-24 15:32:41.876 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:32:51.627 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:32:51.627 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:32:51.636 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:32:51.638 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:32:51.639 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:33:01.636 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:33:01.636 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:33:01.643 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:33:01.645 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:33:01.646 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:37:06.593 +02:00 [INF] Starting up
+2020-10-24 15:37:07.830 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:37:07.842 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:37:07.849 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:37:07.855 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:37:07.862 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:37:07.868 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:37:08.941 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:37:09.463 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:37:09.466 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:37:09.468 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:37:17.850 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:37:17.856 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:37:17.893 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:37:17.896 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:37:17.900 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:37:27.849 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:37:27.849 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:37:27.866 +02:00 [INF] Previous read 0 lines.
+2020-10-24 15:37:27.869 +02:00 [INF] Now we try read 2 lines.
+2020-10-24 15:37:40.743 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:37:40.754 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:37:40.798 +02:00 [INF] Previous read 0 lines.
+2020-10-24 15:37:40.800 +02:00 [INF] Now we try read 2 lines.
+2020-10-24 15:37:50.487 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:37:50.495 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:37:50.569 +02:00 [INF] Previous read 0 lines.
+2020-10-24 15:37:50.572 +02:00 [INF] Now we try read 2 lines.
+2020-10-24 15:38:03.137 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:38:03.137 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:38:04.366 +02:00 [INF] Previous read 0 lines.
+2020-10-24 15:38:04.409 +02:00 [INF] Now we try read 2 lines.
+2020-10-24 15:39:16.908 +02:00 [INF] Starting up
+2020-10-24 15:39:18.089 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 15:39:18.101 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 15:39:18.111 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 15:39:18.118 +02:00 [INF] Hosting environment: Development
+2020-10-24 15:39:18.124 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 15:39:18.133 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:39:19.199 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:39:19.691 +02:00 [INF] Previous read 0 lines.
+2020-10-24 15:39:19.694 +02:00 [INF] Now we try read 2 lines.
+2020-10-24 15:39:25.271 +02:00 [INF] Data read and wrote to database.
+2020-10-24 15:39:25.315 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:39:28.110 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:39:28.108 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:39:28.141 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:39:28.144 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:39:28.147 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:39:38.108 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:39:38.108 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:39:38.123 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:39:38.126 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:39:38.128 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:39:48.122 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:39:48.122 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:39:48.144 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:39:48.146 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:39:48.148 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:39:58.118 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:39:58.118 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:39:58.131 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:39:58.135 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:39:58.137 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:40:08.106 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:40:08.106 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:40:08.119 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:40:08.123 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:40:08.125 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:40:18.108 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:40:18.108 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:40:18.122 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:40:18.125 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:40:18.127 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:40:28.114 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:40:28.114 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:40:28.124 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:40:28.125 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:40:28.127 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:40:38.113 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:40:38.113 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:40:38.122 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:40:38.124 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:40:38.126 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 15:40:48.107 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 15:40:48.107 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 15:40:48.119 +02:00 [INF] Previous read 2 lines.
+2020-10-24 15:40:48.120 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 15:40:48.122 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:03:30.144 +02:00 [INF] Starting up
+2020-10-24 16:03:30.466 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 16:03:30.472 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 16:03:30.475 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 16:03:30.479 +02:00 [INF] Hosting environment: Development
+2020-10-24 16:03:30.484 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 16:03:31.042 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:03:31.042 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:03:31.324 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:03:31.326 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:03:31.328 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:03:40.486 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:03:40.486 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:03:40.500 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:03:40.504 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:03:40.506 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:03:50.485 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:03:50.486 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:03:50.498 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:03:50.502 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:03:50.504 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:06:41.065 +02:00 [INF] Starting up
+2020-10-24 16:06:42.436 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 16:06:42.450 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 16:06:42.459 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 16:06:42.464 +02:00 [INF] Hosting environment: Development
+2020-10-24 16:06:42.469 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 16:06:43.693 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:06:43.694 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:06:59.102 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:07:00.217 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:07:04.481 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:07:04.481 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:27:49.154 +02:00 [INF] Starting up
+2020-10-24 16:27:50.526 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 16:27:50.541 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 16:27:50.552 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 16:27:50.568 +02:00 [INF] Hosting environment: Development
+2020-10-24 16:27:50.575 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 16:27:51.927 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:27:51.927 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:28:02.964 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:28:02.964 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:28:05.911 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:28:05.911 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:28:05.914 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:28:05.917 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:28:05.919 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:28:05.925 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:28:11.571 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:40:16.087 +02:00 [INF] Starting up
+2020-10-24 16:40:17.403 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 16:40:17.427 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 16:40:17.436 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 16:40:17.444 +02:00 [INF] Hosting environment: Development
+2020-10-24 16:40:17.451 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 16:40:18.507 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:40:18.507 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:40:30.667 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:40:30.667 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:40:30.672 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:40:30.692 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:40:30.695 +02:00 [INF] Try to send 100
+2020-10-24 16:40:30.699 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:40:30.699 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:40:30.708 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:32.131 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:40:32.136 +02:00 [INF] Try to send 100
+2020-10-24 16:40:32.138 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:32.140 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:40:32.145 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:32.147 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:32.151 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:32.153 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:32.155 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:32.162 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:37.425 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:40:37.441 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:40:37.445 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:40:37.447 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:40:37.457 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:40:37.479 +02:00 [INF] Try to send 100
+2020-10-24 16:40:37.481 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:37.483 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:37.485 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:37.488 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:47.438 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:40:47.439 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:40:47.465 +02:00 [INF] Try to send 100
+2020-10-24 16:40:47.466 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:40:47.468 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:47.471 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:40:47.473 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:47.475 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:40:47.477 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:47.483 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:57.424 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:40:57.437 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:40:57.438 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:40:57.440 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:40:57.451 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:40:57.464 +02:00 [INF] Try to send 100
+2020-10-24 16:40:57.466 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:57.468 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:57.470 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:40:57.474 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:07.435 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:41:07.435 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:41:07.459 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:41:07.460 +02:00 [INF] Try to send 100
+2020-10-24 16:41:07.462 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:41:07.464 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:07.470 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:41:07.473 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:07.477 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:07.479 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:17.438 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:41:17.438 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:41:17.450 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:41:17.458 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:41:17.464 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:41:17.470 +02:00 [INF] Try to send 100
+2020-10-24 16:41:17.474 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:17.475 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:17.477 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:17.479 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:27.431 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:41:27.431 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:41:27.452 +02:00 [INF] Try to send 100
+2020-10-24 16:41:27.455 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:41:27.457 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:27.459 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:41:27.461 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:27.465 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:41:27.467 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:41:27.472 +02:00 [INF] SendMailHandler handled
+2020-10-24 16:44:30.551 +02:00 [INF] Starting up
+2020-10-24 16:44:31.741 +02:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-24 16:44:31.754 +02:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-24 16:44:31.761 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-24 16:44:31.769 +02:00 [INF] Hosting environment: Development
+2020-10-24 16:44:31.774 +02:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-24 16:44:32.810 +02:00 [INF] SendScheduledMailHandler handled
+2020-10-24 16:44:32.811 +02:00 [INF] Start handle ReadMailFileHandler
+2020-10-24 16:44:33.268 +02:00 [INF] Previous read 2 lines.
+2020-10-24 16:44:33.268 +02:00 [INF] Try to send 100
+2020-10-24 16:44:33.270 +02:00 [INF] Now we try read 0 lines.
+2020-10-24 16:44:33.274 +02:00 [INF] Try to send mail WelcomeMail
+2020-10-24 16:44:33.274 +02:00 [INF] ReadMailFileHandler handled
+2020-10-24 16:44:33.278 +02:00 [INF] Try to send mail WelcomeMail
+2020-10-24 16:44:33.282 +02:00 [INF] Try to send mail WelcomeMail
+2020-10-24 16:44:33.284 +02:00 [INF] Try to send mail WelcomeMail

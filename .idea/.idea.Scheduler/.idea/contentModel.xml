@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\gkast\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\gkast\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Scheduler.66992981.00" t="ExcludeRecursive" />
+    <e p="C:\Users\gkast\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\gkast\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\gkast\RiderProjects\Scheduler" t="IncludeFlat">
+      <e p=".git\info\exclude" t="IncludeRecursive" />
+      <e p="Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Core.csproj" t="IncludeRecursive" />
+        <e p="CSV" t="Include">
+          <e p="Mappers" t="Include">
+            <e p="WelcomeMailDataCsvMapper.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="CsvModelBase.cs" t="Include" />
+            <e p="WelcomeMailDataCsvModel.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DomainModels" t="Include">
+          <e p="ScheduledMailModel.cs" t="Include" />
+          <e p="StateModel.cs" t="Include" />
+        </e>
+        <e p="Enums" t="Include">
+          <e p="EmailStatus.cs" t="Include" />
+          <e p="EmailType.cs" t="Include" />
+          <e p="StateType.cs" t="Include" />
+        </e>
+        <e p="Handlers" t="Include">
+          <e p="QueueScheduledMailHandler.cs" t="Include" />
+          <e p="ReadMailFileHandler.cs" t="Include" />
+          <e p="SendMailHandler.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="Database" t="Include">
+            <e p="IDatabaseContext.cs" t="Include" />
+          </e>
+          <e p="Mails" t="Include">
+            <e p="IEmail.cs" t="Include" />
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="IScheduledMailRepository.cs" t="Include" />
+            <e p="IStateRepository.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="ICsvParserService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Mails" t="Include">
+          <e p="Template" t="Include" />
+          <e p="Types" t="Include">
+            <e p="BaseMail.cs" t="Include" />
+            <e p="WelcomeMail.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Requests" t="Include">
+          <e p="QueueScheduledMailRequest.cs" t="Include" />
+          <e p="ReadMailFileRequest.cs" t="Include" />
+          <e p="SendMailRequest.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="CsvParserService.cs" t="Include" />
+        </e>
+        <e p="Settings" t="Include">
+          <e p="CSVFilePathSettings.cs" t="Include" />
+          <e p="DBSettings.cs" t="Include" />
+        </e>
+        <e p="Tasks" t="Include">
+          <e p="TaskIntervalRunner.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Database" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Database.csproj" t="IncludeRecursive" />
+        <e p="DatabaseContext.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Database.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="POCOModels" t="Include">
+          <e p="ScheduledMailPOCO.cs" t="Include" />
+          <e p="StatePOCO.cs" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="ScheduledMailRepository.cs" t="Include" />
+          <e p="StateRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Main" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="logs" t="Include">
+          <e p="log20201022.txt" t="Include" />
+          <e p="scheduleAppLog20201022.txt" t="Include" />
+          <e p="scheduleAppLog20201023.txt" t="Include" />
+          <e p="scheduleAppLog20201024.txt" t="Include" />
+        </e>
+        <e p="Main.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Main.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Scheduler.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
