@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Core.DomainModels;
+using Core.Enums;
 
 namespace Core.Interfaces.Repositories
 {
@@ -12,5 +13,6 @@ namespace Core.Interfaces.Repositories
         public Task<bool> IsAnyPending();
         public Task<int> CountOfSentInMinute(DateTime minute);
         public Task<IReadOnlyCollection<ScheduledMailModel>> GetLastToSend(int lastCount);
+        public Task ChangeStatus(string id, EmailStatus status);
     }
 }

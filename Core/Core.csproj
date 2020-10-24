@@ -2,17 +2,23 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
+        <PreserveCompilationContext>true</PreserveCompilationContext>
     </PropertyGroup>
 
     <ItemGroup>
         <PackageReference Include="CsvHelper" Version="15.0.8" />
+        <PackageReference Include="FluentEmail.Core" Version="2.8.0" />
+        <PackageReference Include="FluentEmail.Razor" Version="2.8.0" />
+        <PackageReference Include="FluentEmail.Smtp" Version="2.8.0" />
         <PackageReference Include="MediatR" Version="9.0.0" />
         <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="3.1.8" />
         <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Mails\Template" />
+        <None Update="Mails\Template\WelcomeMailTemplate.cshtml">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
     </ItemGroup>
 
 </Project>

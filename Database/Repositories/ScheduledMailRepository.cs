@@ -4,10 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Core.DomainModels;
 using Core.Enums;
-using Core.Interfaces.Database;
 using Core.Interfaces.Repositories;
 using Database.POCOModels;
-using MongoDB.Bson;
 using MongoDB.Driver;
 
 namespace Database.Repositories
@@ -62,6 +60,20 @@ namespace Database.Repositories
                 .Limit(lastCount)
                 .Project(ScheduledMailPOCO.ToDomainModel)
                 .ToListAsync();
+        }
+
+        public async Task ChangeStatus(string id, EmailStatus status)
+        {
+            var mail = await _context.ScheduledMails
+                .Find(x => x.Id == id)
+                .FirstOrDefaultAsync();
+
+            if (mail == null)
+                throw new Exception($"Mail with {id} not exist.");
+
+            mail.Status = status;
+            await _context.ScheduledMails
+                .ReplaceOneAsync(x => x.Id == id, mail);
         }
     }
 }

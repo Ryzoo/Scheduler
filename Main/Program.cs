@@ -1,6 +1,7 @@
 using System;
 using System.Reflection;
 using Core.Handlers;
+using Core.Interfaces.Mails;
 using Core.Interfaces.Repositories;
 using Core.Interfaces.Services;
 using Core.Requests;
@@ -47,24 +48,56 @@ namespace Core
                 .UseWindowsService()
                 .ConfigureServices((hostContext, services) =>
                 {
+                    var conf = hostContext.Configuration;
+
+                    //[FIX] Something not allow to get configuration section
+                    var dbSettings = new DbSettings()
+                    {
+                        ConnectionString = conf["DbSettings:ConnectionString"],
+                        Database = conf["DbSettings:Database"]
+                    };
+                    var csvFilePathSettings = new CsvFilePathSettings()
+                    {
+                        WelcomeMailFilePath = conf["CsvFilePathSettings:WelcomeMailFilePath"]
+                    };
+                    var emailSettings = new EmailSettings()
+                    {
+                        From = conf["EmailSettings:From"],
+                        Host = conf["EmailSettings:Host"],
+                        Port = int.Parse(conf["EmailSettings:Port"]),
+                        Username = conf["EmailSettings:Username"],
+                        Password = conf["EmailSettings:Password"]
+                    };
+                    
                     services
                         .Configure<DbSettings>(o =>
                         {
-                            //[FIX] Something not allow to get configuration section
-                            o.ConnectionString = hostContext.Configuration["DbSettings:ConnectionString"];
-                            o.Database = hostContext.Configuration["DbSettings:Database"];
+                            o.Database = dbSettings.Database;
+                            o.ConnectionString = dbSettings.ConnectionString;
                         })
                         .Configure<CsvFilePathSettings>(o =>
                         {
-                            o.WelcomeMailFilePath = hostContext.Configuration["CsvFilePathSettings:WelcomeMailFilePath"];
+                            o.WelcomeMailFilePath = csvFilePathSettings.WelcomeMailFilePath;
+                        })
+                        .Configure<EmailSettings>(o =>
+                        {
+                            o.From = emailSettings.From;
+                            o.Host = emailSettings.Host;
+                            o.Port = emailSettings.Port;
+                            o.Username = emailSettings.Username;
+                            o.Password = emailSettings.Password;
                         })
                         .AddTransient<ICsvParserService, CsvParserService>()
                         .AddTransient<IScheduledMailRepository, ScheduledMailRepository>()
                         .AddTransient<IStateRepository, StateRepository>()
+                        .AddTransient<IMailBuilderService, MailBuilderService>()
                         .AddMediatR(typeof(ReadMailFileHandler).GetTypeInfo().Assembly)
                         .AddSingleton<DatabaseContext>()
                         .AddHostedService<TaskIntervalRunner<ReadMailFileRequest>>()
-                        .AddHostedService<TaskIntervalRunner<QueueScheduledMailRequest>>();
+                        .AddHostedService<TaskIntervalRunner<QueueScheduledMailRequest>>()
+                        .AddFluentEmail(emailSettings.From)
+                        .AddSmtpSender(emailSettings.Host, emailSettings.Port, emailSettings.Username, emailSettings.Password)
+                        .AddRazorRenderer();
                 });
     }
 }

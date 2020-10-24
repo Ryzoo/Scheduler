@@ -20,7 +20,14 @@ namespace Database.POCOModels
         public DateTime StatusChangedAt { get; set; }
         
         public static Expression<Func<ScheduledMailPOCO, ScheduledMailModel>> ToDomainModel =>
-            mail => new ScheduledMailModel();
+            mail => new ScheduledMailModel()
+            {
+                Id = mail.Id,
+                Params = mail.Params,
+                EmailType = mail.EmailType,
+                Status = mail.Status,
+                StatusChangedAt = mail.StatusChangedAt,
+            };
         public static Func<ScheduledMailModel, ScheduledMailPOCO> FromDomainModel =>
             mail => new ScheduledMailPOCO()
             {

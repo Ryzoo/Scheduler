@@ -14,37 +14,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b5ce60d-b88d-4ef7-8c69-ee17db1f4ab8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Core/CSV/Mappers/WelcomeMailDataCsvMapper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/CSV/Models/CsvModelBase.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/CSV/Models/WelcomeMailDataCsvModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/DomainModels/ScheduledMailModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/DomainModels/StateModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Enums/EmailStatus.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Enums/EmailType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Enums/StateType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Handlers/QueueScheduledMailHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Handlers/ReadMailFileHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Handlers/SendMailHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Interfaces/Database/IDatabaseContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Interfaces/Mails/IEmail.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Interfaces/Repositories/IScheduledMailRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Interfaces/Repositories/IStateRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Interfaces/Services/ICsvParserService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Mails/Types/BaseMail.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Mails/Types/WelcomeMail.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Requests/QueueScheduledMailRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Requests/ReadMailFileRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Requests/SendMailRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Services/CsvParserService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Settings/CsvFilePathSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Settings/DbSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Tasks/TaskIntervalRunner.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Database/DatabaseContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Database/POCOModels/ScheduledMailPOCO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Database/POCOModels/StatePOCO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Database/Repositories/ScheduledMailRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Database/Repositories/StateRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main/Main.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Interfaces/Mails/IEmailTemplateParams.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Interfaces/Mails/IMailBuilderService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Mails/Template/WelcomeMailTemplate.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Services/MailBuilderService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Settings/EmailSettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scheduler/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scheduler/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scheduler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scheduler/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Handlers/SendMailHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Handlers/SendMailHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Interfaces/Mails/IEmail.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Interfaces/Mails/IEmail.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Interfaces/Repositories/IScheduledMailRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Interfaces/Repositories/IScheduledMailRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Mails/Types/BaseMail.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Mails/Types/BaseMail.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Mails/Types/WelcomeMail.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Mails/Types/WelcomeMail.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Database.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Database/Database.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/POCOModels/ScheduledMailPOCO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Database/POCOModels/ScheduledMailPOCO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Repositories/ScheduledMailRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Database/Repositories/ScheduledMailRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Main.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Main.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Main/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Main/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/logs/scheduleAppLog20201024.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Main/logs/scheduleAppLog20201024.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,44 +46,65 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1603551115" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1603551114" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/28D213B5-B7E4-4988-B718-C928B12F0365/0/Constants.vb" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C259796E-CCF1-41D5-A691-24B74AA2E24E/21/1704751c/IMongoDatabase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8EDED3EE-1E47-4B17-83F8-9F6D15B86F0D/25/c2006138/ILogger`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C259796E-CCF1-41D5-A691-24B74AA2E24E/18/d100fe61/IMongoCollection`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Interfaces/Repositories/IScheduledMailRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3834795B-F41B-4E62-8161-509ECA0F5822/2/IRequestHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/286/TaskAwaiter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/21BCA824-3AF7-4B5B-A3D8-97D8E6C79E81/3/LoggerConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3834795B-F41B-4E62-8161-509ECA0F5822/e0/0308902a/ISender.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/1E0/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Mails/Types/BaseMail.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/43C8BFA5-3E45-4417-A342-7907C9107853/6/IConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/28D213B5-B7E4-4988-B718-C928B12F0365/0/Constants.vb" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B507E47A-0B5D-4EBA-91A6-B7CEF260405F/58/daaa0ad6/IFluentEmail.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Main/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Interfaces/Mails/IMailBuilderService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Main/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Handlers/SendMailHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Services/MailBuilderService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Main/appsettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C259796E-CCF1-41D5-A691-24B74AA2E24E/32/f82c9ed3/IFindFluent`2.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/21BCA824-3AF7-4B5B-A3D8-97D8E6C79E81/3/LoggerConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5179DD1B-79F0-47D0-AC65-7ED8A725EFC1/ef/fcf96508/JsonConvert.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/1E0/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C259796E-CCF1-41D5-A691-24B74AA2E24E/cc/8cf6648f/IFindFluentExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E4D853CB-655E-40DD-9699-00D48477D6C9/2/ServiceCollectionServiceExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/43C8BFA5-3E45-4417-A342-7907C9107853/6/IConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B507E47A-0B5D-4EBA-91A6-B7CEF260405F/8f/c3d1f06d/ISender.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Core/Settings/DbSettings.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Core/Repositories/ScheduledMailRepository.cs" />
-        <option value="$PROJECT_DIR$/Core/DBSettings.cs" />
-        <option value="$PROJECT_DIR$/Core/Interfaces/Database/IDatabaseContext.cs" />
-        <option value="$PROJECT_DIR$/Core/Settings/DBSettings.cs" />
-        <option value="$PROJECT_DIR$/Main/Worker.cs" />
-        <option value="$PROJECT_DIR$/Core/Services/MailFileReaderService.cs" />
-        <option value="$PROJECT_DIR$/Core/Tasks/MailFileReaderService.cs" />
-        <option value="$PROJECT_DIR$/Core/Core.csproj" />
-        <option value="$PROJECT_DIR$/Main/Main.csproj" />
         <option value="$PROJECT_DIR$/Core/Requests/ReadMailFileRequest.cs" />
         <option value="$PROJECT_DIR$/Core/Tasks/MailFileReaderTask.cs" />
         <option value="$PROJECT_DIR$/Core/Requests/SendScheduledMailRequest.cs" />
         <option value="$PROJECT_DIR$/Core/PipelineBehaviours/ValidationBehaviour.cs" />
         <option value="$PROJECT_DIR$/Core/Handlers/SendScheduledMailHandler.cs" />
-        <option value="$PROJECT_DIR$/Core/Interfaces/Mails/IEmail.cs" />
-        <option value="$PROJECT_DIR$/Core/Mails/Types/WelcomeMail.cs" />
-        <option value="$PROJECT_DIR$/Core/Mails/Types/BaseMail.cs" />
         <option value="$PROJECT_DIR$/Core/Enums/EmailType.cs" />
         <option value="$PROJECT_DIR$/Core/Enums/EmailStatus.cs" />
         <option value="$PROJECT_DIR$/Core/CSV/CSVParser.cs" />
@@ -107,8 +118,6 @@
         <option value="$PROJECT_DIR$/Core/Interfaces/Services/ICsvParserService.cs" />
         <option value="$PROJECT_DIR$/Core/Services/CsvParserService.cs" />
         <option value="$PROJECT_DIR$/Core/Settings/CsvFilePathSettings.cs" />
-        <option value="$PROJECT_DIR$/Main/appsettings.json" />
-        <option value="$PROJECT_DIR$/Main/appsettings.Development.json" />
         <option value="$PROJECT_DIR$/Database/DatabaseContext.cs" />
         <option value="$PROJECT_DIR$/Core/DomainModels/ScheduledMail.cs" />
         <option value="$PROJECT_DIR$/Core/DomainModels/StateModel.cs" />
@@ -119,15 +128,29 @@
         <option value="$PROJECT_DIR$/Core/CSV/Models/WelcomeMailDataCsvModel.cs" />
         <option value="$PROJECT_DIR$/Database/POCOModels/StatePOCO.cs" />
         <option value="$PROJECT_DIR$/Core/CSV/Models/CsvModelBase.cs" />
-        <option value="$PROJECT_DIR$/Database/POCOModels/ScheduledMailPOCO.cs" />
         <option value="$PROJECT_DIR$/Core/Handlers/ReadMailFileHandler.cs" />
         <option value="$PROJECT_DIR$/Core/Requests/SendMailRequest.cs" />
         <option value="$PROJECT_DIR$/Core/Tasks/TaskIntervalRunner.cs" />
-        <option value="$PROJECT_DIR$/Main/Program.cs" />
+        <option value="$PROJECT_DIR$/Core/Handlers/QueueScheduledMailHandler.cs" />
+        <option value="$PROJECT_DIR$/Core/Mails/MailBuilderService.cs" />
         <option value="$PROJECT_DIR$/Core/Interfaces/Repositories/IScheduledMailRepository.cs" />
         <option value="$PROJECT_DIR$/Database/Repositories/ScheduledMailRepository.cs" />
-        <option value="$PROJECT_DIR$/Core/Handlers/QueueScheduledMailHandler.cs" />
+        <option value="$PROJECT_DIR$/Database/POCOModels/ScheduledMailPOCO.cs" />
+        <option value="$PROJECT_DIR$/Core/Interfaces/Mails/IMailBuilderService.cs" />
         <option value="$PROJECT_DIR$/Core/Handlers/SendMailHandler.cs" />
+        <option value="$PROJECT_DIR$/Main/appsettings.json" />
+        <option value="$PROJECT_DIR$/Main/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/Core/Settings/EmailSettings.cs" />
+        <option value="$PROJECT_DIR$/Main/Program.cs" />
+        <option value="$PROJECT_DIR$/Core/Core.csproj" />
+        <option value="$PROJECT_DIR$/Database/Database.csproj" />
+        <option value="$PROJECT_DIR$/Main/Main.csproj" />
+        <option value="$PROJECT_DIR$/Core/Mails/Template/WelcomeMailTemplate.cshtml" />
+        <option value="$PROJECT_DIR$/Core/Interfaces/Mails/IEmailTemplateParams.cs" />
+        <option value="$PROJECT_DIR$/Core/Mails/Types/WelcomeMail.cs" />
+        <option value="$PROJECT_DIR$/Core/Services/MailBuilderService.cs" />
+        <option value="$PROJECT_DIR$/Core/Mails/Types/BaseMail.cs" />
+        <option value="$PROJECT_DIR$/Core/Interfaces/Mails/IEmail.cs" />
       </list>
     </option>
   </component>
@@ -173,7 +196,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603392351164</updated>
       <workItem from="1603392359541" duration="12122000" />
-      <workItem from="1603528763509" duration="20793000" />
+      <workItem from="1603528763509" duration="29470000" />
     </task>
     <servers />
   </component>
@@ -202,90 +225,90 @@
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
     <state x="589" y="236" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/74.0.1846.1080@74.0.1846.1080" timestamp="1603537656973" />
-    <state width="780" height="646" key="DebuggerActiveHint" timestamp="1603546709931">
+    <state width="780" height="646" key="DebuggerActiveHint" timestamp="1603562008957">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="780" height="646" key="DebuggerActiveHint/74.0.1846.1080@74.0.1846.1080" timestamp="1603546709931" />
-    <state width="1803" height="328" key="GridCell.Tab.0.bottom" timestamp="1603550669804">
+    <state width="780" height="646" key="DebuggerActiveHint/74.0.1846.1080@74.0.1846.1080" timestamp="1603562008957" />
+    <state width="1803" height="328" key="GridCell.Tab.0.bottom" timestamp="1603562973044">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.0.bottom/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669804" />
-    <state width="1803" height="328" key="GridCell.Tab.0.center" timestamp="1603550669804">
+    <state width="1803" height="328" key="GridCell.Tab.0.bottom/74.0.1846.1080@74.0.1846.1080" timestamp="1603562973044" />
+    <state width="1803" height="328" key="GridCell.Tab.0.center" timestamp="1603562973044">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.0.center/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669804" />
-    <state width="1803" height="328" key="GridCell.Tab.0.left" timestamp="1603550669804">
+    <state width="1803" height="328" key="GridCell.Tab.0.center/74.0.1846.1080@74.0.1846.1080" timestamp="1603562973044" />
+    <state width="1803" height="328" key="GridCell.Tab.0.left" timestamp="1603562973044">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.0.left/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669804" />
-    <state width="1803" height="328" key="GridCell.Tab.0.right" timestamp="1603550669804">
+    <state width="1803" height="328" key="GridCell.Tab.0.left/74.0.1846.1080@74.0.1846.1080" timestamp="1603562973044" />
+    <state width="1803" height="328" key="GridCell.Tab.0.right" timestamp="1603562973044">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.0.right/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669804" />
-    <state width="1803" height="328" key="GridCell.Tab.1.bottom" timestamp="1603550669485">
+    <state width="1803" height="328" key="GridCell.Tab.0.right/74.0.1846.1080@74.0.1846.1080" timestamp="1603562973044" />
+    <state width="1803" height="328" key="GridCell.Tab.1.bottom" timestamp="1603562972721">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.1.bottom/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669485" />
-    <state width="1803" height="328" key="GridCell.Tab.1.center" timestamp="1603550669485">
+    <state width="1803" height="328" key="GridCell.Tab.1.bottom/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972721" />
+    <state width="1803" height="328" key="GridCell.Tab.1.center" timestamp="1603562972720">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.1.center/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669485" />
-    <state width="1803" height="328" key="GridCell.Tab.1.left" timestamp="1603550669485">
+    <state width="1803" height="328" key="GridCell.Tab.1.center/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972720" />
+    <state width="1803" height="328" key="GridCell.Tab.1.left" timestamp="1603562972720">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.1.left/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669485" />
-    <state width="1803" height="328" key="GridCell.Tab.1.right" timestamp="1603550669485">
+    <state width="1803" height="328" key="GridCell.Tab.1.left/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972720" />
+    <state width="1803" height="328" key="GridCell.Tab.1.right" timestamp="1603562972721">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.1.right/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669485" />
-    <state width="1803" height="328" key="GridCell.Tab.2.bottom" timestamp="1603550669486">
+    <state width="1803" height="328" key="GridCell.Tab.1.right/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972721" />
+    <state width="1803" height="328" key="GridCell.Tab.2.bottom" timestamp="1603562972721">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.2.bottom/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669486" />
-    <state width="1803" height="328" key="GridCell.Tab.2.center" timestamp="1603550669486">
+    <state width="1803" height="328" key="GridCell.Tab.2.bottom/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972721" />
+    <state width="1803" height="328" key="GridCell.Tab.2.center" timestamp="1603562972721">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.2.center/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669486" />
-    <state width="1803" height="328" key="GridCell.Tab.2.left" timestamp="1603550669486">
+    <state width="1803" height="328" key="GridCell.Tab.2.center/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972721" />
+    <state width="1803" height="328" key="GridCell.Tab.2.left" timestamp="1603562972721">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.2.left/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669486" />
-    <state width="1803" height="328" key="GridCell.Tab.2.right" timestamp="1603550669486">
+    <state width="1803" height="328" key="GridCell.Tab.2.left/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972721" />
+    <state width="1803" height="328" key="GridCell.Tab.2.right" timestamp="1603562972721">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.2.right/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669486" />
-    <state width="1803" height="328" key="GridCell.Tab.3.bottom" timestamp="1603550669487">
+    <state width="1803" height="328" key="GridCell.Tab.2.right/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972721" />
+    <state width="1803" height="328" key="GridCell.Tab.3.bottom" timestamp="1603562972722">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.3.bottom/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669487" />
-    <state width="1803" height="328" key="GridCell.Tab.3.center" timestamp="1603550669486">
+    <state width="1803" height="328" key="GridCell.Tab.3.bottom/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972722" />
+    <state width="1803" height="328" key="GridCell.Tab.3.center" timestamp="1603562972721">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.3.center/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669486" />
-    <state width="1803" height="328" key="GridCell.Tab.3.left" timestamp="1603550669486">
+    <state width="1803" height="328" key="GridCell.Tab.3.center/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972721" />
+    <state width="1803" height="328" key="GridCell.Tab.3.left" timestamp="1603562972721">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.3.left/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669486" />
-    <state width="1803" height="328" key="GridCell.Tab.3.right" timestamp="1603550669486">
+    <state width="1803" height="328" key="GridCell.Tab.3.left/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972721" />
+    <state width="1803" height="328" key="GridCell.Tab.3.right" timestamp="1603562972722">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.3.right/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669486" />
-    <state width="1803" height="328" key="GridCell.Tab.4.bottom" timestamp="1603550669487">
+    <state width="1803" height="328" key="GridCell.Tab.3.right/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972722" />
+    <state width="1803" height="328" key="GridCell.Tab.4.bottom" timestamp="1603562972722">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.4.bottom/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669487" />
-    <state width="1803" height="328" key="GridCell.Tab.4.center" timestamp="1603550669487">
+    <state width="1803" height="328" key="GridCell.Tab.4.bottom/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972722" />
+    <state width="1803" height="328" key="GridCell.Tab.4.center" timestamp="1603562972722">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.4.center/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669487" />
-    <state width="1803" height="328" key="GridCell.Tab.4.left" timestamp="1603550669487">
+    <state width="1803" height="328" key="GridCell.Tab.4.center/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972722" />
+    <state width="1803" height="328" key="GridCell.Tab.4.left" timestamp="1603562972722">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.4.left/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669487" />
-    <state width="1803" height="328" key="GridCell.Tab.4.right" timestamp="1603550669487">
+    <state width="1803" height="328" key="GridCell.Tab.4.left/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972722" />
+    <state width="1803" height="328" key="GridCell.Tab.4.right" timestamp="1603562972722">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state width="1803" height="328" key="GridCell.Tab.4.right/74.0.1846.1080@74.0.1846.1080" timestamp="1603550669487" />
+    <state width="1803" height="328" key="GridCell.Tab.4.right/74.0.1846.1080@74.0.1846.1080" timestamp="1603562972722" />
     <state x="589" y="271" key="Rider.ProjectTemplateDialog.Size" timestamp="1603533242864">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
@@ -298,10 +321,10 @@
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
     <state width="931" height="548" key="XDebugger.FullValuePopup/74.0.1846.1080@74.0.1846.1080" timestamp="1603548527784" />
-    <state x="676" y="257" width="642" height="566" key="find.popup" timestamp="1603402159987">
+    <state x="676" y="257" width="642" height="566" key="find.popup" timestamp="1603561493149">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>
-    <state x="676" y="257" width="642" height="566" key="find.popup/74.0.1846.1080@74.0.1846.1080" timestamp="1603402159987" />
+    <state x="676" y="257" width="642" height="566" key="find.popup/74.0.1846.1080@74.0.1846.1080" timestamp="1603561493149" />
     <state x="653" y="250" width="672" height="677" key="run.anything.popup" timestamp="1603547633699">
       <screen x="74" y="0" width="1846" height="1080" />
     </state>

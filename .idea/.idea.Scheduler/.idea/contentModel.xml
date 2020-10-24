@@ -39,6 +39,8 @@
           </e>
           <e p="Mails" t="Include">
             <e p="IEmail.cs" t="Include" />
+            <e p="IEmailTemplateParams.cs" t="Include" />
+            <e p="IMailBuilderService.cs" t="Include" />
           </e>
           <e p="Repositories" t="Include">
             <e p="IScheduledMailRepository.cs" t="Include" />
@@ -49,7 +51,9 @@
           </e>
         </e>
         <e p="Mails" t="Include">
-          <e p="Template" t="Include" />
+          <e p="Template" t="Include">
+            <e p="WelcomeMailTemplate.cshtml" t="Include" />
+          </e>
           <e p="Types" t="Include">
             <e p="BaseMail.cs" t="Include" />
             <e p="WelcomeMail.cs" t="Include" />
@@ -69,10 +73,12 @@
         </e>
         <e p="Services" t="Include">
           <e p="CsvParserService.cs" t="Include" />
+          <e p="MailBuilderService.cs" t="Include" />
         </e>
         <e p="Settings" t="Include">
           <e p="CSVFilePathSettings.cs" t="Include" />
           <e p="DBSettings.cs" t="Include" />
+          <e p="EmailSettings.cs" t="Include" />
         </e>
         <e p="Tasks" t="Include">
           <e p="TaskIntervalRunner.cs" t="Include" />
