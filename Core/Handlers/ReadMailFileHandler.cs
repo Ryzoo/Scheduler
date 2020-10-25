@@ -17,6 +17,7 @@ namespace Core.Handlers
 {
     public class ReadMailFileHandler : AsyncRequestHandler<ReadMailFileRequest>
     {
+        private const int MaxLineToTake = 100;
         private readonly ILogger<ReadMailFileHandler> _logger;
         private readonly ICsvParserService _csvParserService;
         private readonly IOptions<CsvFilePathSettings> _settings;
@@ -39,13 +40,13 @@ namespace Core.Handlers
             _logger.LogInformation("Start handle ReadMailFileHandler");
             try
             {
+                var previousReadLine = await _stateRepository.GetState<int?>(StateType.ReadLineCount);
+                var startReadLine = previousReadLine ?? 0;
                 var welcomeMailDataList = _csvParserService
                     .ReadCsvFile<WelcomeMailDataCsvModel, WelcomeMailDataCsvMapper>(_settings.Value
-                        .WelcomeMailFilePath);
+                        .WelcomeMailFilePath, startReadLine, MaxLineToTake);
 
-                var previousReadLine = await _stateRepository.GetState<int?>(StateType.ReadLineCount);
                 var toReadCount = welcomeMailDataList.Count;
-                var startReadLine = previousReadLine ?? 0;
                 var lineToRead = toReadCount - startReadLine;
 
                 _logger.LogInformation($"Previous read {previousReadLine ?? 0} lines.");

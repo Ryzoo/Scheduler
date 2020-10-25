@@ -1,0 +1,617 @@
+2020-10-25 13:30:32.571 +01:00 [INF] Starting up
+2020-10-25 13:30:33.312 +01:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-25 13:30:33.322 +01:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-25 13:30:33.325 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-25 13:30:33.332 +01:00 [INF] Hosting environment: Development
+2020-10-25 13:30:33.346 +01:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-25 13:30:34.311 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:30:34.312 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:30:34.700 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:30:34.718 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:30:34.721 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:30:34.725 +01:00 [INF] Try to send 100
+2020-10-25 13:30:43.326 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:30:43.341 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:30:43.342 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:30:43.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:30:43.353 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:30:43.357 +01:00 [INF] Try to send 100
+2020-10-25 13:30:53.334 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:30:53.334 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:30:53.346 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:30:53.349 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:30:53.351 +01:00 [INF] Try to send 100
+2020-10-25 13:30:53.352 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:31:03.339 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:31:03.339 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:31:03.350 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:31:03.351 +01:00 [INF] Try to send 100
+2020-10-25 13:31:03.353 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:31:03.362 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:31:13.336 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:31:13.336 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:31:13.355 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:31:13.359 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:31:13.359 +01:00 [INF] Try to send 100
+2020-10-25 13:31:13.361 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:31:23.326 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:31:23.326 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:31:23.341 +01:00 [INF] Try to send 100
+2020-10-25 13:31:23.342 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:31:23.351 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:31:23.355 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:31:33.333 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:31:33.333 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:31:33.350 +01:00 [INF] Try to send 100
+2020-10-25 13:31:33.350 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:31:33.356 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:31:33.358 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:31:43.341 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:31:43.341 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:31:43.351 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:31:43.353 +01:00 [INF] Try to send 100
+2020-10-25 13:31:43.354 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:31:43.361 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:31:53.335 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:31:53.335 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:31:53.350 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:31:53.350 +01:00 [INF] Try to send 100
+2020-10-25 13:31:53.355 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:31:53.361 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:32:03.326 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:32:03.326 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:32:03.336 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:32:03.339 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:32:03.341 +01:00 [INF] Try to send 100
+2020-10-25 13:32:03.344 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:32:13.335 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:32:13.335 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:32:13.345 +01:00 [INF] Try to send 100
+2020-10-25 13:32:13.345 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:32:13.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:32:13.354 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:32:23.332 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:32:23.332 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:32:23.342 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:32:23.344 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:32:23.345 +01:00 [INF] Try to send 100
+2020-10-25 13:32:23.347 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:32:33.331 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:32:33.331 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:32:33.341 +01:00 [INF] Try to send 100
+2020-10-25 13:32:33.341 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:32:33.346 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:32:33.350 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:32:43.338 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:32:43.338 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:32:43.347 +01:00 [INF] Try to send 100
+2020-10-25 13:32:43.348 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:32:43.352 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:32:43.356 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:32:53.325 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:32:53.325 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:32:53.333 +01:00 [INF] Try to send 100
+2020-10-25 13:32:53.334 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:32:53.338 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:32:53.341 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:33:03.341 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:33:03.341 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:33:03.348 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:33:03.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:33:03.352 +01:00 [INF] Try to send 100
+2020-10-25 13:33:03.353 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:33:13.328 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:33:13.328 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:33:13.335 +01:00 [INF] Try to send 100
+2020-10-25 13:33:13.337 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:33:13.340 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:33:13.342 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:33:23.346 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:33:23.346 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:33:23.354 +01:00 [INF] Try to send 100
+2020-10-25 13:33:23.356 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:33:23.358 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:33:23.360 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:33:33.326 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:33:33.326 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:33:33.332 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:33:33.337 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:33:33.338 +01:00 [INF] Try to send 100
+2020-10-25 13:33:33.340 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:33:43.327 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:33:43.327 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:33:43.334 +01:00 [INF] Try to send 100
+2020-10-25 13:33:43.336 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:33:43.340 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:33:43.343 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:33:53.332 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:33:53.332 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:33:53.341 +01:00 [INF] Try to send 100
+2020-10-25 13:33:53.342 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:33:53.345 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:33:53.349 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:34:03.327 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:34:03.327 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:34:03.334 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:34:03.336 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:34:03.337 +01:00 [INF] Try to send 100
+2020-10-25 13:34:03.339 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:34:13.331 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:34:13.331 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:34:13.338 +01:00 [INF] Try to send 100
+2020-10-25 13:34:13.339 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:34:13.344 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:34:13.346 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:34:23.332 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:34:23.332 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:34:23.339 +01:00 [INF] Try to send 100
+2020-10-25 13:34:23.340 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:34:23.343 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:34:23.345 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:34:33.336 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:34:33.336 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:34:33.344 +01:00 [INF] Try to send 100
+2020-10-25 13:34:33.347 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:34:33.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:34:33.354 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:34:43.339 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:34:43.339 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:34:43.348 +01:00 [INF] Try to send 100
+2020-10-25 13:34:43.350 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:34:43.354 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:34:43.359 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:34:53.335 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:34:53.336 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:34:53.342 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:34:53.344 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:34:53.345 +01:00 [INF] Try to send 100
+2020-10-25 13:34:53.346 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:35:03.329 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:35:03.329 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:35:03.336 +01:00 [INF] Try to send 100
+2020-10-25 13:35:03.338 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:35:03.341 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:35:03.343 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:35:13.335 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:35:13.335 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:35:13.343 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:35:13.346 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:35:13.348 +01:00 [INF] Try to send 100
+2020-10-25 13:35:13.349 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:35:23.324 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:35:23.332 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:35:23.335 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:35:23.337 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:35:23.339 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:35:23.349 +01:00 [INF] Try to send 100
+2020-10-25 13:35:33.341 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:35:33.341 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:35:33.349 +01:00 [INF] Try to send 100
+2020-10-25 13:35:33.350 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:35:33.354 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:35:33.356 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:35:43.338 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:35:43.338 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:35:43.345 +01:00 [INF] Try to send 100
+2020-10-25 13:35:43.346 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:35:43.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:35:43.352 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:35:53.332 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:35:53.332 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:35:53.340 +01:00 [INF] Try to send 100
+2020-10-25 13:35:53.341 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:35:53.345 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:35:53.347 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:36:03.324 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:36:03.329 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:36:03.332 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:36:03.334 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:36:03.339 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:36:03.348 +01:00 [INF] Try to send 100
+2020-10-25 13:36:13.328 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:36:13.328 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:36:13.334 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:36:13.336 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:36:13.337 +01:00 [INF] Try to send 100
+2020-10-25 13:36:13.339 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:36:23.334 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:36:23.334 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:36:23.341 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:36:23.344 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:36:23.345 +01:00 [INF] Try to send 100
+2020-10-25 13:36:23.347 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:36:33.325 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:36:33.325 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:36:33.331 +01:00 [INF] Try to send 100
+2020-10-25 13:36:33.332 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:36:33.336 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:36:33.338 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:36:43.346 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:36:43.346 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:36:43.352 +01:00 [INF] Try to send 100
+2020-10-25 13:36:43.353 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:36:43.357 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:36:43.359 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:36:53.333 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:36:53.333 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:36:53.340 +01:00 [INF] Try to send 100
+2020-10-25 13:36:53.341 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:36:53.345 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:36:53.347 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:37:03.338 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:37:03.338 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:37:03.346 +01:00 [INF] Try to send 100
+2020-10-25 13:37:03.347 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:37:03.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:37:03.352 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:37:13.337 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:37:13.337 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:37:13.342 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:37:13.344 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:37:13.346 +01:00 [INF] Try to send 100
+2020-10-25 13:37:13.347 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:37:23.330 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:37:23.330 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:37:23.338 +01:00 [INF] Try to send 100
+2020-10-25 13:37:23.339 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:37:23.343 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:37:23.345 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:37:33.327 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:37:33.327 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:37:33.333 +01:00 [INF] Try to send 100
+2020-10-25 13:37:33.334 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:37:33.338 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:37:33.340 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:37:43.337 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:37:43.337 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:37:43.344 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:37:43.346 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:37:43.347 +01:00 [INF] Try to send 100
+2020-10-25 13:37:43.349 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:37:53.328 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:37:53.328 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:37:53.335 +01:00 [INF] Try to send 100
+2020-10-25 13:37:53.336 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:37:53.341 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:37:53.345 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:38:03.341 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:38:03.341 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:38:03.346 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:38:03.348 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:38:03.349 +01:00 [INF] Try to send 100
+2020-10-25 13:38:03.351 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:38:13.332 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:38:13.332 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:38:13.338 +01:00 [INF] Try to send 100
+2020-10-25 13:38:13.339 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:38:13.342 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:38:13.345 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:38:23.327 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:38:23.327 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:38:23.333 +01:00 [INF] Try to send 100
+2020-10-25 13:38:23.334 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:38:23.338 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:38:23.340 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:38:33.336 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:38:33.336 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:38:33.343 +01:00 [INF] Try to send 100
+2020-10-25 13:38:33.344 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:38:33.348 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:38:33.350 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:38:43.328 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:38:43.328 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:38:43.337 +01:00 [INF] Try to send 100
+2020-10-25 13:38:43.338 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:38:43.342 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:38:43.346 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:38:53.334 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:38:53.334 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:38:53.341 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:38:53.344 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:38:53.345 +01:00 [INF] Try to send 100
+2020-10-25 13:38:53.347 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:39:03.337 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:39:03.337 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:39:03.342 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:39:03.344 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:39:03.345 +01:00 [INF] Try to send 100
+2020-10-25 13:39:03.347 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:39:13.337 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:39:13.337 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:39:13.345 +01:00 [INF] Try to send 100
+2020-10-25 13:39:13.346 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:39:13.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:39:13.352 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:39:23.334 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:39:23.334 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:39:23.341 +01:00 [INF] Try to send 100
+2020-10-25 13:39:23.343 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:39:23.346 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:39:23.348 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:39:33.338 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:39:33.338 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:39:33.345 +01:00 [INF] Try to send 100
+2020-10-25 13:39:33.347 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:39:33.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:39:33.352 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:39:43.329 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:39:43.329 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:39:43.335 +01:00 [INF] Try to send 100
+2020-10-25 13:39:43.336 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:39:43.340 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:39:43.342 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:39:53.332 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:39:53.332 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:39:53.339 +01:00 [INF] Try to send 100
+2020-10-25 13:39:53.341 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:39:53.344 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:39:53.348 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:40:03.331 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:40:03.331 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:40:03.340 +01:00 [INF] Try to send 100
+2020-10-25 13:40:03.340 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:40:03.345 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:40:03.349 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:40:13.339 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:40:13.339 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:40:13.345 +01:00 [INF] Try to send 100
+2020-10-25 13:40:13.346 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:40:13.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:40:13.352 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:40:23.332 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:40:23.332 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:40:23.338 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:40:23.340 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:40:23.342 +01:00 [INF] Try to send 100
+2020-10-25 13:40:23.343 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:40:33.343 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:40:33.343 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:40:33.351 +01:00 [INF] Try to send 100
+2020-10-25 13:40:33.352 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:40:33.356 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:40:33.358 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:40:43.338 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:40:43.338 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:40:43.344 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:40:43.347 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:40:43.348 +01:00 [INF] Try to send 100
+2020-10-25 13:40:43.349 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:40:53.330 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:40:53.330 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:40:53.335 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:40:53.337 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:40:53.338 +01:00 [INF] Try to send 100
+2020-10-25 13:40:53.340 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:41:03.326 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:41:03.326 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:41:03.334 +01:00 [INF] Try to send 100
+2020-10-25 13:41:03.335 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:41:03.339 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:41:03.341 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:41:13.324 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:41:13.324 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:41:13.332 +01:00 [INF] Try to send 100
+2020-10-25 13:41:13.332 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:41:13.337 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:41:13.339 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:41:23.346 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:41:23.346 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:41:23.353 +01:00 [INF] Try to send 100
+2020-10-25 13:41:23.354 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:41:23.357 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:41:23.359 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:41:33.338 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:41:33.338 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:41:33.345 +01:00 [INF] Try to send 100
+2020-10-25 13:41:33.346 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:41:33.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:41:33.352 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:41:43.326 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:41:43.326 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:41:43.334 +01:00 [INF] Try to send 100
+2020-10-25 13:41:43.334 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:41:43.338 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:41:43.340 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:41:53.334 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:41:53.334 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:41:53.341 +01:00 [INF] Try to send 100
+2020-10-25 13:41:53.342 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:41:53.346 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:41:53.348 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:42:03.325 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:42:03.325 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:42:03.332 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:42:03.334 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:42:03.335 +01:00 [INF] Try to send 100
+2020-10-25 13:42:03.336 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:42:13.347 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:42:13.347 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:42:13.357 +01:00 [INF] Try to send 100
+2020-10-25 13:42:13.358 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:42:13.362 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:42:13.366 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:42:23.328 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:42:23.328 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:42:23.333 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:42:23.336 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:42:23.337 +01:00 [INF] Try to send 100
+2020-10-25 13:42:23.338 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:42:33.338 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:42:33.338 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:42:33.346 +01:00 [INF] Try to send 100
+2020-10-25 13:42:33.347 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:42:33.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:42:33.353 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:42:43.337 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:42:43.337 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:42:43.344 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:42:43.346 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:42:43.347 +01:00 [INF] Try to send 100
+2020-10-25 13:42:43.348 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:42:53.331 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:42:53.331 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:42:53.340 +01:00 [INF] Try to send 100
+2020-10-25 13:42:53.341 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:42:53.345 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:42:53.350 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:43:03.330 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:43:03.330 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:43:03.338 +01:00 [INF] Try to send 100
+2020-10-25 13:43:03.339 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:43:03.343 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:43:03.345 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:43:13.327 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:43:13.327 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:43:13.335 +01:00 [INF] Try to send 100
+2020-10-25 13:43:13.337 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:43:13.341 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:43:13.344 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:43:23.328 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:43:23.328 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:43:23.336 +01:00 [INF] Try to send 100
+2020-10-25 13:43:23.337 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:43:23.340 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:43:23.342 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:43:33.338 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:43:33.338 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:43:33.345 +01:00 [INF] Try to send 100
+2020-10-25 13:43:33.347 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:43:33.350 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:43:33.352 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:43:43.321 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:43:43.329 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:43:43.332 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:43:43.334 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:43:43.337 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:43:43.347 +01:00 [INF] Try to send 100
+2020-10-25 13:43:53.335 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:43:53.335 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:43:53.343 +01:00 [INF] Try to send 100
+2020-10-25 13:43:53.345 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:43:53.348 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:43:53.352 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:44:03.335 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:44:03.335 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:44:03.343 +01:00 [INF] Try to send 100
+2020-10-25 13:44:03.345 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:44:03.348 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:44:03.350 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:44:13.332 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:44:13.332 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:44:13.340 +01:00 [INF] Try to send 100
+2020-10-25 13:44:13.340 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:44:13.344 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:44:13.346 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:44:23.331 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:44:23.331 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:44:23.339 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:44:23.341 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:44:23.342 +01:00 [INF] Try to send 100
+2020-10-25 13:44:23.344 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:44:33.333 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:44:33.333 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:44:33.340 +01:00 [INF] Try to send 100
+2020-10-25 13:44:33.342 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:44:33.345 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:44:33.347 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:44:43.332 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:44:43.332 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:44:43.341 +01:00 [INF] Try to send 100
+2020-10-25 13:44:43.342 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:44:43.346 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:44:43.348 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:44:53.328 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:44:53.328 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:44:53.336 +01:00 [INF] Try to send 100
+2020-10-25 13:44:53.337 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:44:53.342 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:44:53.346 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 13:45:03.337 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 13:45:03.337 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 13:45:03.345 +01:00 [INF] Try to send 100
+2020-10-25 13:45:03.347 +01:00 [INF] Previous read 2 lines.
+2020-10-25 13:45:03.364 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 13:45:03.376 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:01:39.654 +01:00 [INF] Starting up
+2020-10-25 14:01:39.972 +01:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-25 14:01:39.977 +01:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-25 14:01:39.980 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-25 14:01:39.982 +01:00 [INF] Hosting environment: Development
+2020-10-25 14:01:39.986 +01:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-25 14:01:40.495 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:01:40.495 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:01:40.743 +01:00 [INF] Try to send 100
+2020-10-25 14:01:40.780 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:01:40.784 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:01:40.787 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:01:49.986 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:01:49.986 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:01:49.995 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:01:49.998 +01:00 [INF] Try to send 100
+2020-10-25 14:01:49.999 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:01:50.005 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:01:59.990 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:01:59.990 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:02:00.003 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:02:00.007 +01:00 [INF] Try to send 100
+2020-10-25 14:02:00.008 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:02:00.013 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:02:09.994 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:02:09.994 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:02:10.020 +01:00 [INF] Previous read 0 lines.
+2020-10-25 14:02:10.028 +01:00 [INF] Try to send 100
+2020-10-25 14:02:10.030 +01:00 [INF] Now we try read 2 lines.
+2020-10-25 14:02:10.244 +01:00 [INF] Data read and wrote to database.
+2020-10-25 14:02:10.275 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:02:19.982 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:02:19.982 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:02:19.992 +01:00 [INF] Try to send 100
+2020-10-25 14:02:19.992 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:02:19.999 +01:00 [INF] Try to send mail WelcomeMail
+2020-10-25 14:02:20.000 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:02:20.006 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:02:25.595 +01:00 [INF] Mail sent.
+2020-10-25 14:02:25.599 +01:00 [INF] Try to send mail WelcomeMail
+2020-10-25 14:02:27.390 +01:00 [INF] Mail sent.
+2020-10-25 14:02:29.990 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:02:29.990 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:02:30.001 +01:00 [INF] Try to send 98
+2020-10-25 14:02:30.002 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:02:30.009 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:02:30.011 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:02:39.985 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:02:39.985 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:02:39.996 +01:00 [INF] Try to send 98
+2020-10-25 14:02:39.996 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:02:40.002 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:02:40.006 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:02:49.990 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:02:49.990 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:02:50.013 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:02:50.014 +01:00 [INF] Try to send 98
+2020-10-25 14:02:50.015 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:02:50.020 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:02:59.995 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:02:59.995 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:03:00.007 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:03:00.008 +01:00 [INF] Try to send 100
+2020-10-25 14:03:00.010 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:03:00.019 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:03:09.984 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:03:09.984 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:03:09.994 +01:00 [INF] Try to send 100
+2020-10-25 14:03:09.995 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:03:10.001 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:03:10.004 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:03:19.987 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:03:19.987 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:03:19.996 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:03:19.999 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:03:20.001 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:03:20.003 +01:00 [INF] Try to send 100
+2020-10-25 14:03:29.983 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:03:29.983 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:03:29.992 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:03:29.994 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:03:29.995 +01:00 [INF] Try to send 100
+2020-10-25 14:03:29.997 +01:00 [INF] ReadMailFileHandler handled

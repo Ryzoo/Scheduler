@@ -11,7 +11,7 @@ namespace Core.Services
 {
     public class CsvParserService : ICsvParserService
     {
-        public IReadOnlyCollection<TModel> ReadCsvFile<TModel, TMapper>(string filePath)
+        public IReadOnlyCollection<TModel> ReadCsvFile<TModel, TMapper>(string filePath, int startLine, int toTakeCount)
         where TMapper : ClassMap<TModel>
         {
             try
@@ -20,7 +20,14 @@ namespace Core.Services
                 using var csv = new CsvReader(reader, System.Globalization.CultureInfo.CurrentCulture);
                 csv.Configuration.RegisterClassMap<TMapper>();
                 
-                return csv.GetRecords<TModel>().ToList();
+                return csv.GetRecords<TModel>()
+                    .Take(toTakeCount)
+                    .ToList();
+                
+                // return csv.GetRecords<TModel>()
+                //     .Skip(startLine)
+                //     .Take(toTakeCount)
+                //     .ToList();
             }
             catch (UnauthorizedAccessException e)
             {
