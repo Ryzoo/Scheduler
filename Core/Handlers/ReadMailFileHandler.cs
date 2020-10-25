@@ -46,28 +46,20 @@ namespace Core.Handlers
                     .ReadCsvFile<WelcomeMailDataCsvModel, WelcomeMailDataCsvMapper>(_settings.Value
                         .WelcomeMailFilePath, startReadLine, MaxLineToTake);
 
-                var toReadCount = welcomeMailDataList.Count;
-                var lineToRead = toReadCount - startReadLine;
+                _logger.LogInformation($"Previous read {startReadLine} lines.");
+                _logger.LogInformation($"Now we try read {welcomeMailDataList.Count} lines.");
 
-                _logger.LogInformation($"Previous read {previousReadLine ?? 0} lines.");
-
-                //Plik został zmodyfikowany, zaczynamy liczyć od zera
-                if (startReadLine > toReadCount) startReadLine = 0;
-
-                _logger.LogInformation($"Now we try read {lineToRead} lines.");
-
-                if (lineToRead > 0)
+                if (welcomeMailDataList.Count > 0)
                 {
                     await _mailRepository
                         .AddMany(welcomeMailDataList
-                            .Skip(startReadLine)
                             .Select(WelcomeMailDataCsvModel.ToDomainModel)
                             .ToList()
                         );
 
                     _logger.LogInformation($"Data read and wrote to database.");
 
-                    await _stateRepository.SetState<int?>(StateType.ReadLineCount, toReadCount.ToString());
+                    await _stateRepository.SetState<int?>(StateType.ReadLineCount, welcomeMailDataList.Count.ToString());
                 }
             }
             catch (Exception e)

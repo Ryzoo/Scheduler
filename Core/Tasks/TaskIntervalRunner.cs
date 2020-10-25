@@ -24,6 +24,7 @@ namespace Core.Tasks
 
         public Task StartAsync(CancellationToken stoppingToken)
         {
+            //TODO Fix for async
             _logger.LogInformation($"{typeof(T)} running.");
             _timer = new Timer(DoWork, null, TimeSpan.Zero,TimeSpan.FromSeconds(IntervalSeconds));
             return Task.CompletedTask;

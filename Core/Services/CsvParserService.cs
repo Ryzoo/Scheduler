@@ -21,13 +21,9 @@ namespace Core.Services
                 csv.Configuration.RegisterClassMap<TMapper>();
                 
                 return csv.GetRecords<TModel>()
+                    .Skip(startLine)
                     .Take(toTakeCount)
                     .ToList();
-                
-                // return csv.GetRecords<TModel>()
-                //     .Skip(startLine)
-                //     .Take(toTakeCount)
-                //     .ToList();
             }
             catch (UnauthorizedAccessException e)
             {

@@ -615,3 +615,59 @@
 2020-10-25 14:03:29.994 +01:00 [INF] Now we try read 0 lines.
 2020-10-25 14:03:29.995 +01:00 [INF] Try to send 100
 2020-10-25 14:03:29.997 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:06:50.601 +01:00 [INF] Starting up
+2020-10-25 14:06:50.951 +01:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-25 14:06:50.956 +01:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-25 14:06:50.959 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-25 14:06:50.965 +01:00 [INF] Hosting environment: Development
+2020-10-25 14:06:50.973 +01:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-25 14:06:51.756 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:06:51.756 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:06:52.007 +01:00 [INF] Try to send 100
+2020-10-25 14:06:52.066 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:06:52.069 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:06:52.071 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:07:00.967 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:07:00.967 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:07:00.978 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:07:00.978 +01:00 [INF] Try to send 100
+2020-10-25 14:07:00.981 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:07:00.986 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:07:10.979 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:07:10.979 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:07:10.991 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:07:10.996 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:07:10.998 +01:00 [INF] Try to send 100
+2020-10-25 14:07:10.999 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:24:59.401 +01:00 [INF] Starting up
+2020-10-25 14:24:59.671 +01:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-25 14:24:59.676 +01:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-25 14:24:59.679 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-25 14:24:59.681 +01:00 [INF] Hosting environment: Development
+2020-10-25 14:24:59.686 +01:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-25 14:25:00.228 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:25:00.229 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:25:00.467 +01:00 [INF] Try to send 100
+2020-10-25 14:25:00.528 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:25:00.531 +01:00 [INF] Now we try read 2 lines.
+2020-10-25 14:25:00.546 +01:00 [ERR] Must contain at least 1 request. (Parameter 'requests')
+2020-10-25 14:25:00.550 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:25:09.685 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:25:09.684 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:25:09.700 +01:00 [INF] Try to send 100
+2020-10-25 14:25:09.701 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:25:09.707 +01:00 [INF] Now we try read 2 lines.
+2020-10-25 14:25:09.711 +01:00 [ERR] Must contain at least 1 request. (Parameter 'requests')
+2020-10-25 14:25:09.715 +01:00 [INF] ReadMailFileHandler handled
+2020-10-25 14:25:43.715 +01:00 [INF] Starting up
+2020-10-25 14:25:46.357 +01:00 [INF] Core.Requests.ReadMailFileRequest running.
+2020-10-25 14:25:46.373 +01:00 [INF] Core.Requests.QueueScheduledMailRequest running.
+2020-10-25 14:25:46.383 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-10-25 14:25:46.390 +01:00 [INF] Hosting environment: Development
+2020-10-25 14:25:46.397 +01:00 [INF] Content root path: C:\Users\gkast\RiderProjects\Scheduler\Main
+2020-10-25 14:25:47.753 +01:00 [INF] SendScheduledMailHandler handled
+2020-10-25 14:25:47.754 +01:00 [INF] Start handle ReadMailFileHandler
+2020-10-25 14:25:48.445 +01:00 [INF] Try to send 100
+2020-10-25 14:25:48.529 +01:00 [INF] Previous read 2 lines.
+2020-10-25 14:25:48.531 +01:00 [INF] Now we try read 0 lines.
+2020-10-25 14:25:48.533 +01:00 [INF] ReadMailFileHandler handled

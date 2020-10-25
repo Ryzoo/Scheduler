@@ -15,7 +15,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Serilog;
 
-namespace Core
+namespace Main
 {
     public class Program
     {
@@ -50,7 +50,7 @@ namespace Core
                 {
                     var conf = hostContext.Configuration;
 
-                    //[FIX] Something not allow to get configuration section
+                    //Todo [FIX] Something not allow to get configuration section
                     var dbSettings = new DbSettings()
                     {
                         ConnectionString = conf["DbSettings:ConnectionString"],
