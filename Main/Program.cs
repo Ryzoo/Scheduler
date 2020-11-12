@@ -21,6 +21,31 @@ namespace Main
     {
         public static void Main(string[] args)
         {
+            /*
+             * TODO
+             * Remove mediator
+             * Usunac mediator z konfiguracji
+             * metody CreateHostBuilder
+             * TaskIntervalRunner<ReadMailFileRequest> TaskIntervalRunner<QueueScheduledMailRequest>
+             * TODO
+             * Remove db
+             * usunac polaczenie z baza z CreateHostBuilder i dalej
+             * usunac modele itp
+             * TODO
+             * Przeniesc plik csv do plikow projektu
+             * zmienic sciezke do niego w konfiguracji na skrocona
+             *
+             * Teraz mamy TaskIntervalRunner<ReadMailFileRequest> i TaskIntervalRunner<QueueScheduledMailRequest>
+             * Powinnismy dodac nowy i uzywac tylko tego jednego
+             * w nim musi byc zawarta cala logika - to znaczy przeslanie tam odpowiednich zaleznosci i odpalenie ich metod, nie pisanie wszystkiego w tym pliku
+             * najpierw musimy zczytac informacje z pliku i potem od razu wyslac do przetworzenia/wyslania
+             * musimy znacznik gdzies zapisywac, mozemy uzyc do tego cos w styliu db in memory
+             * zawsze czytamy od znacznika + 100 i po przetworzeniu zapisujemy nowa pozycje znacznika
+             * TODO
+             * zmiast robic nowe  AddHostedService<TaskIntervalRunner<QueueScheduledMailRequest>>()
+             * mozesz sprobowac nie uzywac tego ale hangfire
+             */
+            
             Log.Logger = new LoggerConfiguration()
                 .Enrich.FromLogContext()
                 .WriteTo.Console()
@@ -50,7 +75,6 @@ namespace Main
                 {
                     var conf = hostContext.Configuration;
 
-                    //Todo [FIX] Something not allow to get configuration section
                     var dbSettings = new DbSettings()
                     {
                         ConnectionString = conf["DbSettings:ConnectionString"],

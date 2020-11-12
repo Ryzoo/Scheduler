@@ -40,6 +40,7 @@ namespace Core.Handlers
             _logger.LogInformation("Start handle ReadMailFileHandler");
             try
             {
+                // TODO TO IN MEMORY DB
                 var previousReadLine = await _stateRepository.GetState<int?>(StateType.ReadLineCount);
                 var startReadLine = previousReadLine ?? 0;
                 var welcomeMailDataList = _csvParserService
