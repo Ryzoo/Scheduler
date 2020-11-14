@@ -1,23 +1,14 @@
-﻿using Core.Interfaces.Database;
-using Core.Settings;
-using Database.POCOModels;
-using Microsoft.Extensions.Options;
-using MongoDB.Driver;
+﻿using LinqToDB;
+using LinqToDB.Configuration;
+using LinqToDB.Data;
 
 namespace Database
 {
-    public class DatabaseContext : IDatabaseContext
+    public class DatabaseContext : DataConnection
     {
-        public IMongoCollection<ScheduledMailPOCO> ScheduledMails { get; }
-        public IMongoCollection<StatePOCO> State { get; }
-
-        public DatabaseContext(IOptions<DbSettings> settings)
-        {
-            var client = new MongoClient(settings.Value.ConnectionString);
-            var database = client.GetDatabase(settings.Value.Database);
-            
-            ScheduledMails = database.GetCollection<ScheduledMailPOCO>(ScheduledMailPOCO.Name);
-            State = database.GetCollection<StatePOCO>(StatePOCO.Name);
-        }
+        public ITable<ScheduledMails> ScheduledMails => GetTable<ScheduledMails>();
+        public ITable<State> State => GetTable<State>();
+        public DatabaseContext(LinqToDbConnectionOptions<DatabaseContext> options) :base(options)
+        {}
     }
 }

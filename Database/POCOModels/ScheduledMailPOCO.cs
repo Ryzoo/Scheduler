@@ -2,17 +2,13 @@
 using System.Linq.Expressions;
 using Core.DomainModels;
 using Core.Enums;
-using MongoDB.Bson;
-using MongoDB.Bson.Serialization.Attributes;
 
 namespace Database.POCOModels
 {
     public class ScheduledMailPOCO
     {
         public const string Name = "ScheduledMail";
-        
-        [BsonId]
-        [BsonRepresentation(BsonType.ObjectId)]
+
         public string Id { get; set; }
         public string Params { get; set; }
         public EmailType EmailType { get; set; }

@@ -6,7 +6,6 @@ using Core.DomainModels;
 using Core.Enums;
 using Core.Interfaces.Repositories;
 using Database.POCOModels;
-using MongoDB.Driver;
 
 namespace Database.Repositories
 {

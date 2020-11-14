@@ -1,16 +1,10 @@
 using System;
-using System.Reflection;
-using Core.Handlers;
+using System.IO;
 using Core.Interfaces.Mails;
-using Core.Interfaces.Repositories;
 using Core.Interfaces.Services;
-using Core.Requests;
 using Core.Services;
 using Core.Settings;
 using Core.Tasks;
-using Database;
-using Database.Repositories;
-using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Serilog;
@@ -21,31 +15,6 @@ namespace Main
     {
         public static void Main(string[] args)
         {
-            /*
-             * TODO
-             * Remove mediator
-             * Usunac mediator z konfiguracji
-             * metody CreateHostBuilder
-             * TaskIntervalRunner<ReadMailFileRequest> TaskIntervalRunner<QueueScheduledMailRequest>
-             * TODO
-             * Remove db
-             * usunac polaczenie z baza z CreateHostBuilder i dalej
-             * usunac modele itp
-             * TODO
-             * Przeniesc plik csv do plikow projektu
-             * zmienic sciezke do niego w konfiguracji na skrocona
-             *
-             * Teraz mamy TaskIntervalRunner<ReadMailFileRequest> i TaskIntervalRunner<QueueScheduledMailRequest>
-             * Powinnismy dodac nowy i uzywac tylko tego jednego
-             * w nim musi byc zawarta cala logika - to znaczy przeslanie tam odpowiednich zaleznosci i odpalenie ich metod, nie pisanie wszystkiego w tym pliku
-             * najpierw musimy zczytac informacje z pliku i potem od razu wyslac do przetworzenia/wyslania
-             * musimy znacznik gdzies zapisywac, mozemy uzyc do tego cos w styliu db in memory
-             * zawsze czytamy od znacznika + 100 i po przetworzeniu zapisujemy nowa pozycje znacznika
-             * TODO
-             * zmiast robic nowe  AddHostedService<TaskIntervalRunner<QueueScheduledMailRequest>>()
-             * mozesz sprobowac nie uzywac tego ale hangfire
-             */
-            
             Log.Logger = new LoggerConfiguration()
                 .Enrich.FromLogContext()
                 .WriteTo.Console()
@@ -65,7 +34,7 @@ namespace Main
             {
                 Log.CloseAndFlush();
             }
-        }
+        }    
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
@@ -74,15 +43,10 @@ namespace Main
                 .ConfigureServices((hostContext, services) =>
                 {
                     var conf = hostContext.Configuration;
-
-                    var dbSettings = new DbSettings()
-                    {
-                        ConnectionString = conf["DbSettings:ConnectionString"],
-                        Database = conf["DbSettings:Database"]
-                    };
+                    
                     var csvFilePathSettings = new CsvFilePathSettings()
                     {
-                        WelcomeMailFilePath = conf["CsvFilePathSettings:WelcomeMailFilePath"]
+                        WelcomeMailFilePath =  Path.Combine(Directory.GetCurrentDirectory(), conf["CsvFilePathSettings:Name"])
                     };
                     var emailSettings = new EmailSettings()
                     {
@@ -94,11 +58,6 @@ namespace Main
                     };
                     
                     services
-                        .Configure<DbSettings>(o =>
-                        {
-                            o.Database = dbSettings.Database;
-                            o.ConnectionString = dbSettings.ConnectionString;
-                        })
                         .Configure<CsvFilePathSettings>(o =>
                         {
                             o.WelcomeMailFilePath = csvFilePathSettings.WelcomeMailFilePath;
@@ -111,14 +70,13 @@ namespace Main
                             o.Username = emailSettings.Username;
                             o.Password = emailSettings.Password;
                         })
+                        .AddMemoryCache()
                         .AddTransient<ICsvParserService, CsvParserService>()
-                        .AddTransient<IScheduledMailRepository, ScheduledMailRepository>()
-                        .AddTransient<IStateRepository, StateRepository>()
                         .AddTransient<IMailBuilderService, MailBuilderService>()
-                        .AddMediatR(typeof(ReadMailFileHandler).GetTypeInfo().Assembly)
-                        .AddSingleton<DatabaseContext>()
-                        .AddHostedService<TaskIntervalRunner<ReadMailFileRequest>>()
-                        .AddHostedService<TaskIntervalRunner<QueueScheduledMailRequest>>()
+                        .AddTransient<ICacheService, CacheService>()
+                        .AddTransient<ISendMailService, SendMailService>()
+                        .AddTransient<IReadMailService, ReadMailService>()
+                        .AddHostedService<ScheduleRunner>()
                         .AddFluentEmail(emailSettings.From)
                         .AddSmtpSender(emailSettings.Host, emailSettings.Port, emailSettings.Username, emailSettings.Password)
                         .AddRazorRenderer();
