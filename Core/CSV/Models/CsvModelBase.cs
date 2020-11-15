@@ -11,9 +11,7 @@ namespace Core.CSV.Models
             mail => new ScheduledMailModel()
             {
                 Params = JsonConvert.SerializeObject(mail),
-                Status = EmailStatus.New,
                 EmailType = EmailType.WelcomeMail,
-                StatusChangedAt = DateTime.UtcNow,
             };
     }
 }
