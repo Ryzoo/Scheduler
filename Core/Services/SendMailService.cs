@@ -19,6 +19,7 @@ namespace Core.Services
             _mailBuilderService = mailBuilderService;
         }
         
+        // TODO: Kolekcja zamiast listy
         public async Task SendMail(List<ScheduledMailModel> mailsList)
         {
             foreach (var mail in mailsList)

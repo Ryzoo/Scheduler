@@ -25,6 +25,8 @@ namespace Main
             {
                 Log.Information("Starting up");
                 CreateHostBuilder(args).Build().Run();
+                
+                // TODO: Podział Core na bardziej core
             }
             catch (Exception ex)
             {
@@ -48,6 +50,8 @@ namespace Main
                     {
                         WelcomeMailFilePath =  Path.Combine(Directory.GetCurrentDirectory(), conf["CsvFilePathSettings:Name"])
                     };
+                    
+                    // TODO: https://docs.microsoft.com/pl-pl/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0
                     var emailSettings = new EmailSettings()
                     {
                         From = conf["EmailSettings:From"],
