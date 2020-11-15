@@ -64,7 +64,6 @@
         </e>
         <e p="Settings" t="Include">
           <e p="CSVFilePathSettings.cs" t="Include" />
-          <e p="DBSettings.cs" t="Include" />
           <e p="EmailSettings.cs" t="Include" />
         </e>
         <e p="Tasks" t="Include">
